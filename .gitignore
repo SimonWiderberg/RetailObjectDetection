@@ -172,4 +172,13 @@ train/
 train2019/
 val2019/
 yolov5s.pt
+newtrain_dataset/
+temp/
+test/
+val/
+.vscode/
+mix_train/
+singleobject_test/
+singleobject_train/
+singleobject_val/
 
